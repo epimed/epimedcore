@@ -1,2 +1,2 @@
 # epimedcore
-Epemedcore package
+Epimedcore package
