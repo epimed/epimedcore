@@ -1,0 +1,10 @@
+{
+    "name": "GSEA",
+    "root_dir": "./example/",
+    "project_dir": "./example/GSEA/",
+    "data_dir": "./example/GSEA/DATA/",
+    "results_dir": "./example/GSEA/RESULTS/",
+    "figures_dir": "./example/GSEA/FIGURES/",
+    "json_file": "./example/GSEA/project.json",
+    "datasets": {}
+}
